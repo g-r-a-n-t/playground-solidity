@@ -61,20 +61,20 @@
       "type": "function"
     }
   ],
-  "bytecode": "0x608060405234801561001057600080fd5b50610380806100206000396000f30060806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063226d019114610072578063ad1dd4dc14610089578063b8ebb34f146100f5578063c0fd692e1461010c578063c18c6aaa14610123575b600080fd5b34801561007e57600080fd5b50610087610170565b005b34801561009557600080fd5b5061009e610172565b6040518080602001828103825283818151815260200191508051906020019060200280838360005b838110156100e15780820151818401526020810190506100c6565b505050509050019250505060405180910390f35b34801561010157600080fd5b5061010a610238565b005b34801561011857600080fd5b5061012161023a565b005b34801561012f57600080fd5b5061016e60048036038101908080359060200190929190803573ffffffffffffffffffffffffffffffffffffffff16906020019092919050505061023c565b005b565b6060600080600090505b6002805490508110156101e1578160028281548110151561019957fe5b9060005260206000209060030201600001549080600181540180825580915050906001820390600052602060002001600090919290919091505550808060010191505061017c565b8180548060200260200160405190810160405280929190818152602001828054801561022c57602002820191906000526020600020905b815481526020019060010190808311610218575b50505050509250505090565b565b565b61024461031c565b60606040519081016040528060005481526020018481526020018373ffffffffffffffffffffffffffffffffffffffff16815250905060028190806001815401808255809150509060018203906000526020600020906003020160009091929091909150600082015181600001556020820151816001015560408201518160020160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055505050506000808154809291906001019190505550505050565b6060604051908101604052806000815260200160008152602001600073ffffffffffffffffffffffffffffffffffffffff16815250905600a165627a7a72305820ce3f99b315efdefa72d0660e3f94d4a63be38e9ad4c44a10c2aa94581f00eef70029",
-  "deployedBytecode": "0x60806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063226d019114610072578063ad1dd4dc14610089578063b8ebb34f146100f5578063c0fd692e1461010c578063c18c6aaa14610123575b600080fd5b34801561007e57600080fd5b50610087610170565b005b34801561009557600080fd5b5061009e610172565b6040518080602001828103825283818151815260200191508051906020019060200280838360005b838110156100e15780820151818401526020810190506100c6565b505050509050019250505060405180910390f35b34801561010157600080fd5b5061010a610238565b005b34801561011857600080fd5b5061012161023a565b005b34801561012f57600080fd5b5061016e60048036038101908080359060200190929190803573ffffffffffffffffffffffffffffffffffffffff16906020019092919050505061023c565b005b565b6060600080600090505b6002805490508110156101e1578160028281548110151561019957fe5b9060005260206000209060030201600001549080600181540180825580915050906001820390600052602060002001600090919290919091505550808060010191505061017c565b8180548060200260200160405190810160405280929190818152602001828054801561022c57602002820191906000526020600020905b815481526020019060010190808311610218575b50505050509250505090565b565b565b61024461031c565b60606040519081016040528060005481526020018481526020018373ffffffffffffffffffffffffffffffffffffffff16815250905060028190806001815401808255809150509060018203906000526020600020906003020160009091929091909150600082015181600001556020820151816001015560408201518160020160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055505050506000808154809291906001019190505550505050565b6060604051908101604052806000815260200160008152602001600073ffffffffffffffffffffffffffffffffffffffff16815250905600a165627a7a72305820ce3f99b315efdefa72d0660e3f94d4a63be38e9ad4c44a10c2aa94581f00eef70029",
-  "sourceMap": "26:736:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;26:736:0;;;;;;;",
-  "deployedSourceMap": "26:736:0:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;383:45;;8:9:-1;5:2;;;30:1;27;20:12;5:2;383:45:0;;;;;;536:224;;8:9:-1;5:2;;;30:1;27;20:12;5:2;536:224:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23:1:-1;8:100;33:3;30:1;27:10;8:100;;;99:1;94:3;90:11;84:18;80:1;75:3;71:11;64:39;52:2;49:1;45:10;40:15;;8:100;;;12:14;536:224:0;;;;;;;;;;;;;;;;;480:52;;8:9:-1;5:2;;;30:1;27;20:12;5:2;480:52:0;;;;;;432:44;;8:9:-1;5:2;;;30:1;27;20:12;5:2;432:44:0;;;;;;199:180;;8:9:-1;5:2;;;30:1;27;20:12;5:2;199:180:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;383:45;:::o;536:224::-;594:6;608:18;636:6;645:1;636:10;;632:107;652:21;:28;;;;648:1;:32;632:107;;;695:3;704:21;726:1;704:24;;;;;;;;;;;;;;;;;;;;:27;;;695:37;;39:1:-1;33:3;27:10;23:18;57:10;52:3;45:23;79:10;72:17;;0:93;695:37:0;;;;;;;;;;;;;;;;;;;;;;682:3;;;;;;;632:107;;;752:3;745:10;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;536:224;;;:::o;480:52::-;:::o;432:44::-;:::o;199:180::-;265:19;;:::i;:::-;287:29;;;;;;;;;292:9;;287:29;;;;303:5;287:29;;;;310:5;287:29;;;;;265:51;;322:21;349:7;322:35;;39:1:-1;33:3;27:10;23:18;57:10;52:3;45:23;79:10;72:17;;0:93;322:35:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;363:9;;:11;;;;;;;;;;;;;199:180;;;:::o;26:736::-;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o",
-  "source": "pragma solidity ^0.4.23;\n\ncontract HomeInsurance {\n  struct Home {\n    uint id;\n    uint value;\n    address owner;\n  }\n\n  uint currentId;\n  Home[] homesInsured;\n  Home[] homeInsuranceRequests;\n\n  \n  function requestInsurance(uint value, address owner) public {\n    Home memory newHome = Home(currentId, value, owner);\n    homeInsuranceRequests.push(newHome);\n    currentId++;\n  }\n\n  function signInsuranceRequest() public {\n\n  }\n\n  function absoluteLossRequest() public {\n\n  }\n\n  function signAbsoluteLossRequest() public {\n    \n  }\n\n  function listInsuranceRequests() public constant returns (uint[]) {\n    uint[] storage ids;\n    for(uint i = 0; i < homeInsuranceRequests.length; i++) {\n      ids.push(homeInsuranceRequests[i].id);\n    } \n    return ids;\n  }\n}\n",
+  "bytecode": "0x608060405234801561001057600080fd5b50610340806100206000396000f30060806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063226d019114610072578063ad1dd4dc14610089578063b8ebb34f146100f5578063c0fd692e1461010c578063c18c6aaa14610123575b600080fd5b34801561007e57600080fd5b50610087610170565b005b34801561009557600080fd5b5061009e610172565b6040518080602001828103825283818151815260200191508051906020019060200280838360005b838110156100e15780820151818401526020810190506100c6565b505050509050019250505060405180910390f35b34801561010157600080fd5b5061010a6101ca565b005b34801561011857600080fd5b506101216101cc565b005b34801561012f57600080fd5b5061016e60048036038101908080359060200190929190803573ffffffffffffffffffffffffffffffffffffffff1690602001909291905050506101ce565b005b565b606060038054806020026020016040519081016040528092919081815260200182805480156101c057602002820191906000526020600020905b8154815260200190600101908083116101ac575b5050505050905090565b565b565b6101d66102dc565b60606040519081016040528060005481526020018481526020018373ffffffffffffffffffffffffffffffffffffffff16815250905060028190806001815401808255809150509060018203906000526020600020906003020160009091929091909150600082015181600001556020820151816001015560408201518160020160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550505050600360005490806001815401808255809150509060018203906000526020600020016000909192909190915055506000808154809291906001019190505550505050565b6060604051908101604052806000815260200160008152602001600073ffffffffffffffffffffffffffffffffffffffff16815250905600a165627a7a723058201d6b0365eb8290e69af1c72644252dafe8dc6b2b2d9969028dca2645e142d9f10029",
+  "deployedBytecode": "0x60806040526004361061006d576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063226d019114610072578063ad1dd4dc14610089578063b8ebb34f146100f5578063c0fd692e1461010c578063c18c6aaa14610123575b600080fd5b34801561007e57600080fd5b50610087610170565b005b34801561009557600080fd5b5061009e610172565b6040518080602001828103825283818151815260200191508051906020019060200280838360005b838110156100e15780820151818401526020810190506100c6565b505050509050019250505060405180910390f35b34801561010157600080fd5b5061010a6101ca565b005b34801561011857600080fd5b506101216101cc565b005b34801561012f57600080fd5b5061016e60048036038101908080359060200190929190803573ffffffffffffffffffffffffffffffffffffffff1690602001909291905050506101ce565b005b565b606060038054806020026020016040519081016040528092919081815260200182805480156101c057602002820191906000526020600020905b8154815260200190600101908083116101ac575b5050505050905090565b565b565b6101d66102dc565b60606040519081016040528060005481526020018481526020018373ffffffffffffffffffffffffffffffffffffffff16815250905060028190806001815401808255809150509060018203906000526020600020906003020160009091929091909150600082015181600001556020820151816001015560408201518160020160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550505050600360005490806001815401808255809150509060018203906000526020600020016000909192909190915055506000808154809291906001019190505550505050565b6060604051908101604052806000815260200160008152602001600073ffffffffffffffffffffffffffffffffffffffff16815250905600a165627a7a723058201d6b0365eb8290e69af1c72644252dafe8dc6b2b2d9969028dca2645e142d9f10029",
+  "sourceMap": "26:701:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;26:701:0;;;;;;;",
+  "deployedSourceMap": "26:701:0:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;464:45;;8:9:-1;5:2;;;30:1;27;20:12;5:2;464:45:0;;;;;;617:108;;8:9:-1;5:2;;;30:1;27;20:12;5:2;617:108:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23:1:-1;8:100;33:3;30:1;27:10;8:100;;;99:1;94:3;90:11;84:18;80:1;75:3;71:11;64:39;52:2;49:1;45:10;40:15;;8:100;;;12:14;617:108:0;;;;;;;;;;;;;;;;;561:52;;8:9:-1;5:2;;;30:1;27;20:12;5:2;561:52:0;;;;;;513:44;;8:9:-1;5:2;;;30:1;27;20:12;5:2;513:44:0;;;;;;234:226;;8:9:-1;5:2;;;30:1;27;20:12;5:2;234:226:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;464:45;:::o;617:108::-;675:6;696:24;689:31;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;617:108;:::o;561:52::-;:::o;513:44::-;:::o;234:226::-;300:19;;:::i;:::-;322:29;;;;;;;;;327:9;;322:29;;;;338:5;322:29;;;;345:5;322:29;;;;;300:51;;357:21;384:7;357:35;;39:1:-1;33:3;27:10;23:18;57:10;52:3;45:23;79:10;72:17;;0:93;357:35:0;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;398:24;428:9;;398:40;;39:1:-1;33:3;27:10;23:18;57:10;52:3;45:23;79:10;72:17;;0:93;398:40:0;;;;;;;;;;;;;;;;;;;;;;444:9;;:11;;;;;;;;;;;;;234:226;;;:::o;26:701::-;;;;;;;;;;;;;;;;;;;;;;;;;;;:::o",
+  "source": "pragma solidity ^0.4.23;\n\ncontract HomeInsurance {\n  struct Home {\n    uint id;\n    uint value;\n    address owner;\n  }\n\n  uint currentId;\n  Home[] homesInsured;\n  Home[] homeInsuranceRequests;\n  uint[] homeInsuranceRequestsIds;\n\n  \n  function requestInsurance(uint value, address owner) public {\n    Home memory newHome = Home(currentId, value, owner);\n    homeInsuranceRequests.push(newHome);\n    homeInsuranceRequestsIds.push(currentId);\n    currentId++;\n  }\n\n  function signInsuranceRequest() public {\n\n  }\n\n  function absoluteLossRequest() public {\n\n  }\n\n  function signAbsoluteLossRequest() public {\n    \n  }\n\n  function listInsuranceRequests() public constant returns (uint[]) {\n    return homeInsuranceRequestsIds;\n  }\n}\n",
   "sourcePath": "/home/grant/sandbox/playground-solidity/home-insurance/contracts/HomeInsurance.sol",
   "ast": {
     "absolutePath": "/home/grant/sandbox/playground-solidity/home-insurance/contracts/HomeInsurance.sol",
     "exportedSymbols": {
       "HomeInsurance": [
-        90
+        72
       ]
     },
-    "id": 91,
+    "id": 73,
     "nodeType": "SourceUnit",
     "nodes": [
       {
@@ -94,9 +94,9 @@
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 90,
+        "id": 72,
         "linearizedBaseContracts": [
-          90
+          72
         ],
         "name": "HomeInsurance",
         "nodeType": "ContractDefinition",
@@ -186,7 +186,7 @@
             ],
             "name": "Home",
             "nodeType": "StructDefinition",
-            "scope": 90,
+            "scope": 72,
             "src": "53:65:0",
             "visibility": "public"
           },
@@ -195,7 +195,7 @@
             "id": 10,
             "name": "currentId",
             "nodeType": "VariableDeclaration",
-            "scope": 90,
+            "scope": 72,
             "src": "122:14:0",
             "stateVariable": true,
             "storageLocation": "default",
@@ -221,7 +221,7 @@
             "id": 13,
             "name": "homesInsured",
             "nodeType": "VariableDeclaration",
-            "scope": 90,
+            "scope": 72,
             "src": "140:19:0",
             "stateVariable": true,
             "storageLocation": "default",
@@ -259,7 +259,7 @@
             "id": 16,
             "name": "homeInsuranceRequests",
             "nodeType": "VariableDeclaration",
-            "scope": 90,
+            "scope": 72,
             "src": "163:28:0",
             "stateVariable": true,
             "storageLocation": "default",
@@ -293,23 +293,59 @@
             "visibility": "internal"
           },
           {
+            "constant": false,
+            "id": 19,
+            "name": "homeInsuranceRequestsIds",
+            "nodeType": "VariableDeclaration",
+            "scope": 72,
+            "src": "195:31:0",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_array$_t_uint256_$dyn_storage",
+              "typeString": "uint256[]"
+            },
+            "typeName": {
+              "baseType": {
+                "id": 17,
+                "name": "uint",
+                "nodeType": "ElementaryTypeName",
+                "src": "195:4:0",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_uint256",
+                  "typeString": "uint256"
+                }
+              },
+              "id": 18,
+              "length": null,
+              "nodeType": "ArrayTypeName",
+              "src": "195:6:0",
+              "typeDescriptions": {
+                "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
+                "typeString": "uint256[]"
+              }
+            },
+            "value": null,
+            "visibility": "internal"
+          },
+          {
             "body": {
-              "id": 40,
+              "id": 49,
               "nodeType": "Block",
-              "src": "259:120:0",
+              "src": "294:166:0",
               "statements": [
                 {
                   "assignments": [
-                    24
+                    27
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 24,
+                      "id": 27,
                       "name": "newHome",
                       "nodeType": "VariableDeclaration",
-                      "scope": 41,
-                      "src": "265:19:0",
+                      "scope": 50,
+                      "src": "300:19:0",
                       "stateVariable": false,
                       "storageLocation": "memory",
                       "typeDescriptions": {
@@ -318,11 +354,11 @@
                       },
                       "typeName": {
                         "contractScope": null,
-                        "id": 23,
+                        "id": 26,
                         "name": "Home",
                         "nodeType": "UserDefinedTypeName",
                         "referencedDeclaration": 8,
-                        "src": "265:4:0",
+                        "src": "300:4:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_struct$_Home_$8_storage_ptr",
                           "typeString": "struct HomeInsurance.Home"
@@ -332,18 +368,18 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 30,
+                  "id": 33,
                   "initialValue": {
                     "argumentTypes": null,
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 26,
+                        "id": 29,
                         "name": "currentId",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
                         "referencedDeclaration": 10,
-                        "src": "292:9:0",
+                        "src": "327:9:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -351,12 +387,12 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 27,
+                        "id": 30,
                         "name": "value",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 18,
-                        "src": "303:5:0",
+                        "referencedDeclaration": 21,
+                        "src": "338:5:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -364,12 +400,12 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 28,
+                        "id": 31,
                         "name": "owner",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 20,
-                        "src": "310:5:0",
+                        "referencedDeclaration": 23,
+                        "src": "345:5:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -391,18 +427,18 @@
                           "typeString": "address"
                         }
                       ],
-                      "id": 25,
+                      "id": 28,
                       "name": "Home",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
                       "referencedDeclaration": 8,
-                      "src": "287:4:0",
+                      "src": "322:4:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_type$_t_struct$_Home_$8_storage_ptr_$",
                         "typeString": "type(struct HomeInsurance.Home storage pointer)"
                       }
                     },
-                    "id": 29,
+                    "id": 32,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -410,14 +446,14 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "287:29:0",
+                    "src": "322:29:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_struct$_Home_$8_memory",
                       "typeString": "struct HomeInsurance.Home memory"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "265:51:0"
+                  "src": "300:51:0"
                 },
                 {
                   "expression": {
@@ -425,12 +461,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 34,
+                        "id": 37,
                         "name": "newHome",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 24,
-                        "src": "349:7:0",
+                        "referencedDeclaration": 27,
+                        "src": "384:7:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_struct$_Home_$8_memory_ptr",
                           "typeString": "struct HomeInsurance.Home memory"
@@ -446,18 +482,18 @@
                       ],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 31,
+                        "id": 34,
                         "name": "homeInsuranceRequests",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
                         "referencedDeclaration": 16,
-                        "src": "322:21:0",
+                        "src": "357:21:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_array$_t_struct$_Home_$8_storage_$dyn_storage",
                           "typeString": "struct HomeInsurance.Home storage ref[] storage ref"
                         }
                       },
-                      "id": 33,
+                      "id": 36,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -465,13 +501,13 @@
                       "memberName": "push",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "322:26:0",
+                      "src": "357:26:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_arraypush_nonpayable$_t_struct$_Home_$8_storage_$returns$_t_uint256_$",
                         "typeString": "function (struct HomeInsurance.Home storage ref) returns (uint256)"
                       }
                     },
-                    "id": 35,
+                    "id": 38,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -479,20 +515,90 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "322:35:0",
+                    "src": "357:35:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   },
-                  "id": 36,
+                  "id": 39,
                   "nodeType": "ExpressionStatement",
-                  "src": "322:35:0"
+                  "src": "357:35:0"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 38,
+                    "arguments": [
+                      {
+                        "argumentTypes": null,
+                        "id": 43,
+                        "name": "currentId",
+                        "nodeType": "Identifier",
+                        "overloadedDeclarations": [],
+                        "referencedDeclaration": 10,
+                        "src": "428:9:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_uint256",
+                          "typeString": "uint256"
+                        }
+                      }
+                    ],
+                    "expression": {
+                      "argumentTypes": [
+                        {
+                          "typeIdentifier": "t_uint256",
+                          "typeString": "uint256"
+                        }
+                      ],
+                      "expression": {
+                        "argumentTypes": null,
+                        "id": 40,
+                        "name": "homeInsuranceRequestsIds",
+                        "nodeType": "Identifier",
+                        "overloadedDeclarations": [],
+                        "referencedDeclaration": 19,
+                        "src": "398:24:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_array$_t_uint256_$dyn_storage",
+                          "typeString": "uint256[] storage ref"
+                        }
+                      },
+                      "id": 42,
+                      "isConstant": false,
+                      "isLValue": false,
+                      "isPure": false,
+                      "lValueRequested": false,
+                      "memberName": "push",
+                      "nodeType": "MemberAccess",
+                      "referencedDeclaration": null,
+                      "src": "398:29:0",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_function_arraypush_nonpayable$_t_uint256_$returns$_t_uint256_$",
+                        "typeString": "function (uint256) returns (uint256)"
+                      }
+                    },
+                    "id": 44,
+                    "isConstant": false,
+                    "isLValue": false,
+                    "isPure": false,
+                    "kind": "functionCall",
+                    "lValueRequested": false,
+                    "names": [],
+                    "nodeType": "FunctionCall",
+                    "src": "398:40:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "id": 45,
+                  "nodeType": "ExpressionStatement",
+                  "src": "398:40:0"
+                },
+                {
+                  "expression": {
+                    "argumentTypes": null,
+                    "id": 47,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -500,15 +606,15 @@
                     "nodeType": "UnaryOperation",
                     "operator": "++",
                     "prefix": false,
-                    "src": "363:11:0",
+                    "src": "444:11:0",
                     "subExpression": {
                       "argumentTypes": null,
-                      "id": 37,
+                      "id": 46,
                       "name": "currentId",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
                       "referencedDeclaration": 10,
-                      "src": "363:9:0",
+                      "src": "444:9:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -519,14 +625,14 @@
                       "typeString": "uint256"
                     }
                   },
-                  "id": 39,
+                  "id": 48,
                   "nodeType": "ExpressionStatement",
-                  "src": "363:11:0"
+                  "src": "444:11:0"
                 }
               ]
             },
             "documentation": null,
-            "id": 41,
+            "id": 50,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -534,16 +640,16 @@
             "name": "requestInsurance",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 21,
+              "id": 24,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 18,
+                  "id": 21,
                   "name": "value",
                   "nodeType": "VariableDeclaration",
-                  "scope": 41,
-                  "src": "225:10:0",
+                  "scope": 50,
+                  "src": "260:10:0",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -551,10 +657,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 17,
+                    "id": 20,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
-                    "src": "225:4:0",
+                    "src": "260:4:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -565,11 +671,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 20,
+                  "id": 23,
                   "name": "owner",
                   "nodeType": "VariableDeclaration",
-                  "scope": 41,
-                  "src": "237:13:0",
+                  "scope": 50,
+                  "src": "272:13:0",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -577,10 +683,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 19,
+                    "id": 22,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "237:7:0",
+                    "src": "272:7:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -590,30 +696,30 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "224:27:0"
+              "src": "259:27:0"
             },
             "payable": false,
             "returnParameters": {
-              "id": 22,
+              "id": 25,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "259:0:0"
+              "src": "294:0:0"
             },
-            "scope": 90,
-            "src": "199:180:0",
+            "scope": 72,
+            "src": "234:226:0",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 44,
+              "id": 53,
               "nodeType": "Block",
-              "src": "422:6:0",
+              "src": "503:6:0",
               "statements": []
             },
             "documentation": null,
-            "id": 45,
+            "id": 54,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -621,33 +727,33 @@
             "name": "signInsuranceRequest",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 42,
+              "id": 51,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "412:2:0"
+              "src": "493:2:0"
             },
             "payable": false,
             "returnParameters": {
-              "id": 43,
+              "id": 52,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "422:0:0"
+              "src": "503:0:0"
             },
-            "scope": 90,
-            "src": "383:45:0",
+            "scope": 72,
+            "src": "464:45:0",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 48,
+              "id": 57,
               "nodeType": "Block",
-              "src": "470:6:0",
+              "src": "551:6:0",
               "statements": []
             },
             "documentation": null,
-            "id": 49,
+            "id": 58,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -655,33 +761,33 @@
             "name": "absoluteLossRequest",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 46,
+              "id": 55,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "460:2:0"
+              "src": "541:2:0"
             },
             "payable": false,
             "returnParameters": {
-              "id": 47,
+              "id": 56,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "470:0:0"
+              "src": "551:0:0"
             },
-            "scope": 90,
-            "src": "432:44:0",
+            "scope": 72,
+            "src": "513:44:0",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 52,
+              "id": 61,
               "nodeType": "Block",
-              "src": "522:10:0",
+              "src": "603:10:0",
               "statements": []
             },
             "documentation": null,
-            "id": 53,
+            "id": 62,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -689,372 +795,53 @@
             "name": "signAbsoluteLossRequest",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 50,
+              "id": 59,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "512:2:0"
+              "src": "593:2:0"
             },
             "payable": false,
             "returnParameters": {
-              "id": 51,
+              "id": 60,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "522:0:0"
+              "src": "603:0:0"
             },
-            "scope": 90,
-            "src": "480:52:0",
+            "scope": 72,
+            "src": "561:52:0",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 88,
+              "id": 70,
               "nodeType": "Block",
-              "src": "602:158:0",
+              "src": "683:42:0",
               "statements": [
-                {
-                  "assignments": [],
-                  "declarations": [
-                    {
-                      "constant": false,
-                      "id": 62,
-                      "name": "ids",
-                      "nodeType": "VariableDeclaration",
-                      "scope": 89,
-                      "src": "608:18:0",
-                      "stateVariable": false,
-                      "storageLocation": "storage",
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
-                        "typeString": "uint256[]"
-                      },
-                      "typeName": {
-                        "baseType": {
-                          "id": 60,
-                          "name": "uint",
-                          "nodeType": "ElementaryTypeName",
-                          "src": "608:4:0",
-                          "typeDescriptions": {
-                            "typeIdentifier": "t_uint256",
-                            "typeString": "uint256"
-                          }
-                        },
-                        "id": 61,
-                        "length": null,
-                        "nodeType": "ArrayTypeName",
-                        "src": "608:6:0",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
-                          "typeString": "uint256[]"
-                        }
-                      },
-                      "value": null,
-                      "visibility": "internal"
-                    }
-                  ],
-                  "id": 63,
-                  "initialValue": null,
-                  "nodeType": "VariableDeclarationStatement",
-                  "src": "608:18:0"
-                },
-                {
-                  "body": {
-                    "id": 84,
-                    "nodeType": "Block",
-                    "src": "687:52:0",
-                    "statements": [
-                      {
-                        "expression": {
-                          "argumentTypes": null,
-                          "arguments": [
-                            {
-                              "argumentTypes": null,
-                              "expression": {
-                                "argumentTypes": null,
-                                "baseExpression": {
-                                  "argumentTypes": null,
-                                  "id": 78,
-                                  "name": "homeInsuranceRequests",
-                                  "nodeType": "Identifier",
-                                  "overloadedDeclarations": [],
-                                  "referencedDeclaration": 16,
-                                  "src": "704:21:0",
-                                  "typeDescriptions": {
-                                    "typeIdentifier": "t_array$_t_struct$_Home_$8_storage_$dyn_storage",
-                                    "typeString": "struct HomeInsurance.Home storage ref[] storage ref"
-                                  }
-                                },
-                                "id": 80,
-                                "indexExpression": {
-                                  "argumentTypes": null,
-                                  "id": 79,
-                                  "name": "i",
-                                  "nodeType": "Identifier",
-                                  "overloadedDeclarations": [],
-                                  "referencedDeclaration": 65,
-                                  "src": "726:1:0",
-                                  "typeDescriptions": {
-                                    "typeIdentifier": "t_uint256",
-                                    "typeString": "uint256"
-                                  }
-                                },
-                                "isConstant": false,
-                                "isLValue": true,
-                                "isPure": false,
-                                "lValueRequested": false,
-                                "nodeType": "IndexAccess",
-                                "src": "704:24:0",
-                                "typeDescriptions": {
-                                  "typeIdentifier": "t_struct$_Home_$8_storage",
-                                  "typeString": "struct HomeInsurance.Home storage ref"
-                                }
-                              },
-                              "id": 81,
-                              "isConstant": false,
-                              "isLValue": true,
-                              "isPure": false,
-                              "lValueRequested": false,
-                              "memberName": "id",
-                              "nodeType": "MemberAccess",
-                              "referencedDeclaration": 3,
-                              "src": "704:27:0",
-                              "typeDescriptions": {
-                                "typeIdentifier": "t_uint256",
-                                "typeString": "uint256"
-                              }
-                            }
-                          ],
-                          "expression": {
-                            "argumentTypes": [
-                              {
-                                "typeIdentifier": "t_uint256",
-                                "typeString": "uint256"
-                              }
-                            ],
-                            "expression": {
-                              "argumentTypes": null,
-                              "id": 75,
-                              "name": "ids",
-                              "nodeType": "Identifier",
-                              "overloadedDeclarations": [],
-                              "referencedDeclaration": 62,
-                              "src": "695:3:0",
-                              "typeDescriptions": {
-                                "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
-                                "typeString": "uint256[] storage pointer"
-                              }
-                            },
-                            "id": 77,
-                            "isConstant": false,
-                            "isLValue": false,
-                            "isPure": false,
-                            "lValueRequested": false,
-                            "memberName": "push",
-                            "nodeType": "MemberAccess",
-                            "referencedDeclaration": null,
-                            "src": "695:8:0",
-                            "typeDescriptions": {
-                              "typeIdentifier": "t_function_arraypush_nonpayable$_t_uint256_$returns$_t_uint256_$",
-                              "typeString": "function (uint256) returns (uint256)"
-                            }
-                          },
-                          "id": 82,
-                          "isConstant": false,
-                          "isLValue": false,
-                          "isPure": false,
-                          "kind": "functionCall",
-                          "lValueRequested": false,
-                          "names": [],
-                          "nodeType": "FunctionCall",
-                          "src": "695:37:0",
-                          "typeDescriptions": {
-                            "typeIdentifier": "t_uint256",
-                            "typeString": "uint256"
-                          }
-                        },
-                        "id": 83,
-                        "nodeType": "ExpressionStatement",
-                        "src": "695:37:0"
-                      }
-                    ]
-                  },
-                  "condition": {
-                    "argumentTypes": null,
-                    "commonType": {
-                      "typeIdentifier": "t_uint256",
-                      "typeString": "uint256"
-                    },
-                    "id": 71,
-                    "isConstant": false,
-                    "isLValue": false,
-                    "isPure": false,
-                    "lValueRequested": false,
-                    "leftExpression": {
-                      "argumentTypes": null,
-                      "id": 68,
-                      "name": "i",
-                      "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 65,
-                      "src": "648:1:0",
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_uint256",
-                        "typeString": "uint256"
-                      }
-                    },
-                    "nodeType": "BinaryOperation",
-                    "operator": "<",
-                    "rightExpression": {
-                      "argumentTypes": null,
-                      "expression": {
-                        "argumentTypes": null,
-                        "id": 69,
-                        "name": "homeInsuranceRequests",
-                        "nodeType": "Identifier",
-                        "overloadedDeclarations": [],
-                        "referencedDeclaration": 16,
-                        "src": "652:21:0",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_array$_t_struct$_Home_$8_storage_$dyn_storage",
-                          "typeString": "struct HomeInsurance.Home storage ref[] storage ref"
-                        }
-                      },
-                      "id": 70,
-                      "isConstant": false,
-                      "isLValue": true,
-                      "isPure": false,
-                      "lValueRequested": false,
-                      "memberName": "length",
-                      "nodeType": "MemberAccess",
-                      "referencedDeclaration": null,
-                      "src": "652:28:0",
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_uint256",
-                        "typeString": "uint256"
-                      }
-                    },
-                    "src": "648:32:0",
-                    "typeDescriptions": {
-                      "typeIdentifier": "t_bool",
-                      "typeString": "bool"
-                    }
-                  },
-                  "id": 85,
-                  "initializationExpression": {
-                    "assignments": [
-                      65
-                    ],
-                    "declarations": [
-                      {
-                        "constant": false,
-                        "id": 65,
-                        "name": "i",
-                        "nodeType": "VariableDeclaration",
-                        "scope": 89,
-                        "src": "636:6:0",
-                        "stateVariable": false,
-                        "storageLocation": "default",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_uint256",
-                          "typeString": "uint256"
-                        },
-                        "typeName": {
-                          "id": 64,
-                          "name": "uint",
-                          "nodeType": "ElementaryTypeName",
-                          "src": "636:4:0",
-                          "typeDescriptions": {
-                            "typeIdentifier": "t_uint256",
-                            "typeString": "uint256"
-                          }
-                        },
-                        "value": null,
-                        "visibility": "internal"
-                      }
-                    ],
-                    "id": 67,
-                    "initialValue": {
-                      "argumentTypes": null,
-                      "hexValue": "30",
-                      "id": 66,
-                      "isConstant": false,
-                      "isLValue": false,
-                      "isPure": true,
-                      "kind": "number",
-                      "lValueRequested": false,
-                      "nodeType": "Literal",
-                      "src": "645:1:0",
-                      "subdenomination": null,
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_rational_0_by_1",
-                        "typeString": "int_const 0"
-                      },
-                      "value": "0"
-                    },
-                    "nodeType": "VariableDeclarationStatement",
-                    "src": "636:10:0"
-                  },
-                  "loopExpression": {
-                    "expression": {
-                      "argumentTypes": null,
-                      "id": 73,
-                      "isConstant": false,
-                      "isLValue": false,
-                      "isPure": false,
-                      "lValueRequested": false,
-                      "nodeType": "UnaryOperation",
-                      "operator": "++",
-                      "prefix": false,
-                      "src": "682:3:0",
-                      "subExpression": {
-                        "argumentTypes": null,
-                        "id": 72,
-                        "name": "i",
-                        "nodeType": "Identifier",
-                        "overloadedDeclarations": [],
-                        "referencedDeclaration": 65,
-                        "src": "682:1:0",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_uint256",
-                          "typeString": "uint256"
-                        }
-                      },
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_uint256",
-                        "typeString": "uint256"
-                      }
-                    },
-                    "id": 74,
-                    "nodeType": "ExpressionStatement",
-                    "src": "682:3:0"
-                  },
-                  "nodeType": "ForStatement",
-                  "src": "632:107:0"
-                },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 86,
-                    "name": "ids",
+                    "id": 68,
+                    "name": "homeInsuranceRequestsIds",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 62,
-                    "src": "752:3:0",
+                    "referencedDeclaration": 19,
+                    "src": "696:24:0",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
-                      "typeString": "uint256[] storage pointer"
+                      "typeIdentifier": "t_array$_t_uint256_$dyn_storage",
+                      "typeString": "uint256[] storage ref"
                     }
                   },
-                  "functionReturnParameters": 58,
-                  "id": 87,
+                  "functionReturnParameters": 67,
+                  "id": 69,
                   "nodeType": "Return",
-                  "src": "745:10:0"
+                  "src": "689:31:0"
                 }
               ]
             },
             "documentation": null,
-            "id": 89,
+            "id": 71,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": true,
@@ -1062,23 +849,23 @@
             "name": "listInsuranceRequests",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 54,
+              "id": 63,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "566:2:0"
+              "src": "647:2:0"
             },
             "payable": false,
             "returnParameters": {
-              "id": 58,
+              "id": 67,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 57,
+                  "id": 66,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 89,
-                  "src": "594:6:0",
+                  "scope": 71,
+                  "src": "675:6:0",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -1087,19 +874,19 @@
                   },
                   "typeName": {
                     "baseType": {
-                      "id": 55,
+                      "id": 64,
                       "name": "uint",
                       "nodeType": "ElementaryTypeName",
-                      "src": "594:4:0",
+                      "src": "675:4:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
                       }
                     },
-                    "id": 56,
+                    "id": 65,
                     "length": null,
                     "nodeType": "ArrayTypeName",
-                    "src": "594:6:0",
+                    "src": "675:6:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
                       "typeString": "uint256[]"
@@ -1109,29 +896,29 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "593:8:0"
+              "src": "674:8:0"
             },
-            "scope": 90,
-            "src": "536:224:0",
+            "scope": 72,
+            "src": "617:108:0",
             "stateMutability": "view",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 91,
-        "src": "26:736:0"
+        "scope": 73,
+        "src": "26:701:0"
       }
     ],
-    "src": "0:763:0"
+    "src": "0:728:0"
   },
   "legacyAST": {
     "absolutePath": "/home/grant/sandbox/playground-solidity/home-insurance/contracts/HomeInsurance.sol",
     "exportedSymbols": {
       "HomeInsurance": [
-        90
+        72
       ]
     },
-    "id": 91,
+    "id": 73,
     "nodeType": "SourceUnit",
     "nodes": [
       {
@@ -1151,9 +938,9 @@
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 90,
+        "id": 72,
         "linearizedBaseContracts": [
-          90
+          72
         ],
         "name": "HomeInsurance",
         "nodeType": "ContractDefinition",
@@ -1243,7 +1030,7 @@
             ],
             "name": "Home",
             "nodeType": "StructDefinition",
-            "scope": 90,
+            "scope": 72,
             "src": "53:65:0",
             "visibility": "public"
           },
@@ -1252,7 +1039,7 @@
             "id": 10,
             "name": "currentId",
             "nodeType": "VariableDeclaration",
-            "scope": 90,
+            "scope": 72,
             "src": "122:14:0",
             "stateVariable": true,
             "storageLocation": "default",
@@ -1278,7 +1065,7 @@
             "id": 13,
             "name": "homesInsured",
             "nodeType": "VariableDeclaration",
-            "scope": 90,
+            "scope": 72,
             "src": "140:19:0",
             "stateVariable": true,
             "storageLocation": "default",
@@ -1316,7 +1103,7 @@
             "id": 16,
             "name": "homeInsuranceRequests",
             "nodeType": "VariableDeclaration",
-            "scope": 90,
+            "scope": 72,
             "src": "163:28:0",
             "stateVariable": true,
             "storageLocation": "default",
@@ -1350,23 +1137,59 @@
             "visibility": "internal"
           },
           {
+            "constant": false,
+            "id": 19,
+            "name": "homeInsuranceRequestsIds",
+            "nodeType": "VariableDeclaration",
+            "scope": 72,
+            "src": "195:31:0",
+            "stateVariable": true,
+            "storageLocation": "default",
+            "typeDescriptions": {
+              "typeIdentifier": "t_array$_t_uint256_$dyn_storage",
+              "typeString": "uint256[]"
+            },
+            "typeName": {
+              "baseType": {
+                "id": 17,
+                "name": "uint",
+                "nodeType": "ElementaryTypeName",
+                "src": "195:4:0",
+                "typeDescriptions": {
+                  "typeIdentifier": "t_uint256",
+                  "typeString": "uint256"
+                }
+              },
+              "id": 18,
+              "length": null,
+              "nodeType": "ArrayTypeName",
+              "src": "195:6:0",
+              "typeDescriptions": {
+                "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
+                "typeString": "uint256[]"
+              }
+            },
+            "value": null,
+            "visibility": "internal"
+          },
+          {
             "body": {
-              "id": 40,
+              "id": 49,
               "nodeType": "Block",
-              "src": "259:120:0",
+              "src": "294:166:0",
               "statements": [
                 {
                   "assignments": [
-                    24
+                    27
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 24,
+                      "id": 27,
                       "name": "newHome",
                       "nodeType": "VariableDeclaration",
-                      "scope": 41,
-                      "src": "265:19:0",
+                      "scope": 50,
+                      "src": "300:19:0",
                       "stateVariable": false,
                       "storageLocation": "memory",
                       "typeDescriptions": {
@@ -1375,11 +1198,11 @@
                       },
                       "typeName": {
                         "contractScope": null,
-                        "id": 23,
+                        "id": 26,
                         "name": "Home",
                         "nodeType": "UserDefinedTypeName",
                         "referencedDeclaration": 8,
-                        "src": "265:4:0",
+                        "src": "300:4:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_struct$_Home_$8_storage_ptr",
                           "typeString": "struct HomeInsurance.Home"
@@ -1389,18 +1212,18 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 30,
+                  "id": 33,
                   "initialValue": {
                     "argumentTypes": null,
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 26,
+                        "id": 29,
                         "name": "currentId",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
                         "referencedDeclaration": 10,
-                        "src": "292:9:0",
+                        "src": "327:9:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -1408,12 +1231,12 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 27,
+                        "id": 30,
                         "name": "value",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 18,
-                        "src": "303:5:0",
+                        "referencedDeclaration": 21,
+                        "src": "338:5:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -1421,12 +1244,12 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 28,
+                        "id": 31,
                         "name": "owner",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 20,
-                        "src": "310:5:0",
+                        "referencedDeclaration": 23,
+                        "src": "345:5:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -1448,18 +1271,18 @@
                           "typeString": "address"
                         }
                       ],
-                      "id": 25,
+                      "id": 28,
                       "name": "Home",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
                       "referencedDeclaration": 8,
-                      "src": "287:4:0",
+                      "src": "322:4:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_type$_t_struct$_Home_$8_storage_ptr_$",
                         "typeString": "type(struct HomeInsurance.Home storage pointer)"
                       }
                     },
-                    "id": 29,
+                    "id": 32,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1467,14 +1290,14 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "287:29:0",
+                    "src": "322:29:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_struct$_Home_$8_memory",
                       "typeString": "struct HomeInsurance.Home memory"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "265:51:0"
+                  "src": "300:51:0"
                 },
                 {
                   "expression": {
@@ -1482,12 +1305,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 34,
+                        "id": 37,
                         "name": "newHome",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 24,
-                        "src": "349:7:0",
+                        "referencedDeclaration": 27,
+                        "src": "384:7:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_struct$_Home_$8_memory_ptr",
                           "typeString": "struct HomeInsurance.Home memory"
@@ -1503,18 +1326,18 @@
                       ],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 31,
+                        "id": 34,
                         "name": "homeInsuranceRequests",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
                         "referencedDeclaration": 16,
-                        "src": "322:21:0",
+                        "src": "357:21:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_array$_t_struct$_Home_$8_storage_$dyn_storage",
                           "typeString": "struct HomeInsurance.Home storage ref[] storage ref"
                         }
                       },
-                      "id": 33,
+                      "id": 36,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -1522,13 +1345,13 @@
                       "memberName": "push",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "322:26:0",
+                      "src": "357:26:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_arraypush_nonpayable$_t_struct$_Home_$8_storage_$returns$_t_uint256_$",
                         "typeString": "function (struct HomeInsurance.Home storage ref) returns (uint256)"
                       }
                     },
-                    "id": 35,
+                    "id": 38,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1536,20 +1359,90 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "322:35:0",
+                    "src": "357:35:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   },
-                  "id": 36,
+                  "id": 39,
                   "nodeType": "ExpressionStatement",
-                  "src": "322:35:0"
+                  "src": "357:35:0"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 38,
+                    "arguments": [
+                      {
+                        "argumentTypes": null,
+                        "id": 43,
+                        "name": "currentId",
+                        "nodeType": "Identifier",
+                        "overloadedDeclarations": [],
+                        "referencedDeclaration": 10,
+                        "src": "428:9:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_uint256",
+                          "typeString": "uint256"
+                        }
+                      }
+                    ],
+                    "expression": {
+                      "argumentTypes": [
+                        {
+                          "typeIdentifier": "t_uint256",
+                          "typeString": "uint256"
+                        }
+                      ],
+                      "expression": {
+                        "argumentTypes": null,
+                        "id": 40,
+                        "name": "homeInsuranceRequestsIds",
+                        "nodeType": "Identifier",
+                        "overloadedDeclarations": [],
+                        "referencedDeclaration": 19,
+                        "src": "398:24:0",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_array$_t_uint256_$dyn_storage",
+                          "typeString": "uint256[] storage ref"
+                        }
+                      },
+                      "id": 42,
+                      "isConstant": false,
+                      "isLValue": false,
+                      "isPure": false,
+                      "lValueRequested": false,
+                      "memberName": "push",
+                      "nodeType": "MemberAccess",
+                      "referencedDeclaration": null,
+                      "src": "398:29:0",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_function_arraypush_nonpayable$_t_uint256_$returns$_t_uint256_$",
+                        "typeString": "function (uint256) returns (uint256)"
+                      }
+                    },
+                    "id": 44,
+                    "isConstant": false,
+                    "isLValue": false,
+                    "isPure": false,
+                    "kind": "functionCall",
+                    "lValueRequested": false,
+                    "names": [],
+                    "nodeType": "FunctionCall",
+                    "src": "398:40:0",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "id": 45,
+                  "nodeType": "ExpressionStatement",
+                  "src": "398:40:0"
+                },
+                {
+                  "expression": {
+                    "argumentTypes": null,
+                    "id": 47,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1557,15 +1450,15 @@
                     "nodeType": "UnaryOperation",
                     "operator": "++",
                     "prefix": false,
-                    "src": "363:11:0",
+                    "src": "444:11:0",
                     "subExpression": {
                       "argumentTypes": null,
-                      "id": 37,
+                      "id": 46,
                       "name": "currentId",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
                       "referencedDeclaration": 10,
-                      "src": "363:9:0",
+                      "src": "444:9:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -1576,14 +1469,14 @@
                       "typeString": "uint256"
                     }
                   },
-                  "id": 39,
+                  "id": 48,
                   "nodeType": "ExpressionStatement",
-                  "src": "363:11:0"
+                  "src": "444:11:0"
                 }
               ]
             },
             "documentation": null,
-            "id": 41,
+            "id": 50,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -1591,16 +1484,16 @@
             "name": "requestInsurance",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 21,
+              "id": 24,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 18,
+                  "id": 21,
                   "name": "value",
                   "nodeType": "VariableDeclaration",
-                  "scope": 41,
-                  "src": "225:10:0",
+                  "scope": 50,
+                  "src": "260:10:0",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -1608,10 +1501,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 17,
+                    "id": 20,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
-                    "src": "225:4:0",
+                    "src": "260:4:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -1622,11 +1515,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 20,
+                  "id": 23,
                   "name": "owner",
                   "nodeType": "VariableDeclaration",
-                  "scope": 41,
-                  "src": "237:13:0",
+                  "scope": 50,
+                  "src": "272:13:0",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -1634,10 +1527,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 19,
+                    "id": 22,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "237:7:0",
+                    "src": "272:7:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -1647,30 +1540,30 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "224:27:0"
+              "src": "259:27:0"
             },
             "payable": false,
             "returnParameters": {
-              "id": 22,
+              "id": 25,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "259:0:0"
+              "src": "294:0:0"
             },
-            "scope": 90,
-            "src": "199:180:0",
+            "scope": 72,
+            "src": "234:226:0",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 44,
+              "id": 53,
               "nodeType": "Block",
-              "src": "422:6:0",
+              "src": "503:6:0",
               "statements": []
             },
             "documentation": null,
-            "id": 45,
+            "id": 54,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -1678,33 +1571,33 @@
             "name": "signInsuranceRequest",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 42,
+              "id": 51,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "412:2:0"
+              "src": "493:2:0"
             },
             "payable": false,
             "returnParameters": {
-              "id": 43,
+              "id": 52,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "422:0:0"
+              "src": "503:0:0"
             },
-            "scope": 90,
-            "src": "383:45:0",
+            "scope": 72,
+            "src": "464:45:0",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 48,
+              "id": 57,
               "nodeType": "Block",
-              "src": "470:6:0",
+              "src": "551:6:0",
               "statements": []
             },
             "documentation": null,
-            "id": 49,
+            "id": 58,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -1712,33 +1605,33 @@
             "name": "absoluteLossRequest",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 46,
+              "id": 55,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "460:2:0"
+              "src": "541:2:0"
             },
             "payable": false,
             "returnParameters": {
-              "id": 47,
+              "id": 56,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "470:0:0"
+              "src": "551:0:0"
             },
-            "scope": 90,
-            "src": "432:44:0",
+            "scope": 72,
+            "src": "513:44:0",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 52,
+              "id": 61,
               "nodeType": "Block",
-              "src": "522:10:0",
+              "src": "603:10:0",
               "statements": []
             },
             "documentation": null,
-            "id": 53,
+            "id": 62,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -1746,372 +1639,53 @@
             "name": "signAbsoluteLossRequest",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 50,
+              "id": 59,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "512:2:0"
+              "src": "593:2:0"
             },
             "payable": false,
             "returnParameters": {
-              "id": 51,
+              "id": 60,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "522:0:0"
+              "src": "603:0:0"
             },
-            "scope": 90,
-            "src": "480:52:0",
+            "scope": 72,
+            "src": "561:52:0",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 88,
+              "id": 70,
               "nodeType": "Block",
-              "src": "602:158:0",
+              "src": "683:42:0",
               "statements": [
-                {
-                  "assignments": [],
-                  "declarations": [
-                    {
-                      "constant": false,
-                      "id": 62,
-                      "name": "ids",
-                      "nodeType": "VariableDeclaration",
-                      "scope": 89,
-                      "src": "608:18:0",
-                      "stateVariable": false,
-                      "storageLocation": "storage",
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
-                        "typeString": "uint256[]"
-                      },
-                      "typeName": {
-                        "baseType": {
-                          "id": 60,
-                          "name": "uint",
-                          "nodeType": "ElementaryTypeName",
-                          "src": "608:4:0",
-                          "typeDescriptions": {
-                            "typeIdentifier": "t_uint256",
-                            "typeString": "uint256"
-                          }
-                        },
-                        "id": 61,
-                        "length": null,
-                        "nodeType": "ArrayTypeName",
-                        "src": "608:6:0",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
-                          "typeString": "uint256[]"
-                        }
-                      },
-                      "value": null,
-                      "visibility": "internal"
-                    }
-                  ],
-                  "id": 63,
-                  "initialValue": null,
-                  "nodeType": "VariableDeclarationStatement",
-                  "src": "608:18:0"
-                },
-                {
-                  "body": {
-                    "id": 84,
-                    "nodeType": "Block",
-                    "src": "687:52:0",
-                    "statements": [
-                      {
-                        "expression": {
-                          "argumentTypes": null,
-                          "arguments": [
-                            {
-                              "argumentTypes": null,
-                              "expression": {
-                                "argumentTypes": null,
-                                "baseExpression": {
-                                  "argumentTypes": null,
-                                  "id": 78,
-                                  "name": "homeInsuranceRequests",
-                                  "nodeType": "Identifier",
-                                  "overloadedDeclarations": [],
-                                  "referencedDeclaration": 16,
-                                  "src": "704:21:0",
-                                  "typeDescriptions": {
-                                    "typeIdentifier": "t_array$_t_struct$_Home_$8_storage_$dyn_storage",
-                                    "typeString": "struct HomeInsurance.Home storage ref[] storage ref"
-                                  }
-                                },
-                                "id": 80,
-                                "indexExpression": {
-                                  "argumentTypes": null,
-                                  "id": 79,
-                                  "name": "i",
-                                  "nodeType": "Identifier",
-                                  "overloadedDeclarations": [],
-                                  "referencedDeclaration": 65,
-                                  "src": "726:1:0",
-                                  "typeDescriptions": {
-                                    "typeIdentifier": "t_uint256",
-                                    "typeString": "uint256"
-                                  }
-                                },
-                                "isConstant": false,
-                                "isLValue": true,
-                                "isPure": false,
-                                "lValueRequested": false,
-                                "nodeType": "IndexAccess",
-                                "src": "704:24:0",
-                                "typeDescriptions": {
-                                  "typeIdentifier": "t_struct$_Home_$8_storage",
-                                  "typeString": "struct HomeInsurance.Home storage ref"
-                                }
-                              },
-                              "id": 81,
-                              "isConstant": false,
-                              "isLValue": true,
-                              "isPure": false,
-                              "lValueRequested": false,
-                              "memberName": "id",
-                              "nodeType": "MemberAccess",
-                              "referencedDeclaration": 3,
-                              "src": "704:27:0",
-                              "typeDescriptions": {
-                                "typeIdentifier": "t_uint256",
-                                "typeString": "uint256"
-                              }
-                            }
-                          ],
-                          "expression": {
-                            "argumentTypes": [
-                              {
-                                "typeIdentifier": "t_uint256",
-                                "typeString": "uint256"
-                              }
-                            ],
-                            "expression": {
-                              "argumentTypes": null,
-                              "id": 75,
-                              "name": "ids",
-                              "nodeType": "Identifier",
-                              "overloadedDeclarations": [],
-                              "referencedDeclaration": 62,
-                              "src": "695:3:0",
-                              "typeDescriptions": {
-                                "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
-                                "typeString": "uint256[] storage pointer"
-                              }
-                            },
-                            "id": 77,
-                            "isConstant": false,
-                            "isLValue": false,
-                            "isPure": false,
-                            "lValueRequested": false,
-                            "memberName": "push",
-                            "nodeType": "MemberAccess",
-                            "referencedDeclaration": null,
-                            "src": "695:8:0",
-                            "typeDescriptions": {
-                              "typeIdentifier": "t_function_arraypush_nonpayable$_t_uint256_$returns$_t_uint256_$",
-                              "typeString": "function (uint256) returns (uint256)"
-                            }
-                          },
-                          "id": 82,
-                          "isConstant": false,
-                          "isLValue": false,
-                          "isPure": false,
-                          "kind": "functionCall",
-                          "lValueRequested": false,
-                          "names": [],
-                          "nodeType": "FunctionCall",
-                          "src": "695:37:0",
-                          "typeDescriptions": {
-                            "typeIdentifier": "t_uint256",
-                            "typeString": "uint256"
-                          }
-                        },
-                        "id": 83,
-                        "nodeType": "ExpressionStatement",
-                        "src": "695:37:0"
-                      }
-                    ]
-                  },
-                  "condition": {
-                    "argumentTypes": null,
-                    "commonType": {
-                      "typeIdentifier": "t_uint256",
-                      "typeString": "uint256"
-                    },
-                    "id": 71,
-                    "isConstant": false,
-                    "isLValue": false,
-                    "isPure": false,
-                    "lValueRequested": false,
-                    "leftExpression": {
-                      "argumentTypes": null,
-                      "id": 68,
-                      "name": "i",
-                      "nodeType": "Identifier",
-                      "overloadedDeclarations": [],
-                      "referencedDeclaration": 65,
-                      "src": "648:1:0",
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_uint256",
-                        "typeString": "uint256"
-                      }
-                    },
-                    "nodeType": "BinaryOperation",
-                    "operator": "<",
-                    "rightExpression": {
-                      "argumentTypes": null,
-                      "expression": {
-                        "argumentTypes": null,
-                        "id": 69,
-                        "name": "homeInsuranceRequests",
-                        "nodeType": "Identifier",
-                        "overloadedDeclarations": [],
-                        "referencedDeclaration": 16,
-                        "src": "652:21:0",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_array$_t_struct$_Home_$8_storage_$dyn_storage",
-                          "typeString": "struct HomeInsurance.Home storage ref[] storage ref"
-                        }
-                      },
-                      "id": 70,
-                      "isConstant": false,
-                      "isLValue": true,
-                      "isPure": false,
-                      "lValueRequested": false,
-                      "memberName": "length",
-                      "nodeType": "MemberAccess",
-                      "referencedDeclaration": null,
-                      "src": "652:28:0",
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_uint256",
-                        "typeString": "uint256"
-                      }
-                    },
-                    "src": "648:32:0",
-                    "typeDescriptions": {
-                      "typeIdentifier": "t_bool",
-                      "typeString": "bool"
-                    }
-                  },
-                  "id": 85,
-                  "initializationExpression": {
-                    "assignments": [
-                      65
-                    ],
-                    "declarations": [
-                      {
-                        "constant": false,
-                        "id": 65,
-                        "name": "i",
-                        "nodeType": "VariableDeclaration",
-                        "scope": 89,
-                        "src": "636:6:0",
-                        "stateVariable": false,
-                        "storageLocation": "default",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_uint256",
-                          "typeString": "uint256"
-                        },
-                        "typeName": {
-                          "id": 64,
-                          "name": "uint",
-                          "nodeType": "ElementaryTypeName",
-                          "src": "636:4:0",
-                          "typeDescriptions": {
-                            "typeIdentifier": "t_uint256",
-                            "typeString": "uint256"
-                          }
-                        },
-                        "value": null,
-                        "visibility": "internal"
-                      }
-                    ],
-                    "id": 67,
-                    "initialValue": {
-                      "argumentTypes": null,
-                      "hexValue": "30",
-                      "id": 66,
-                      "isConstant": false,
-                      "isLValue": false,
-                      "isPure": true,
-                      "kind": "number",
-                      "lValueRequested": false,
-                      "nodeType": "Literal",
-                      "src": "645:1:0",
-                      "subdenomination": null,
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_rational_0_by_1",
-                        "typeString": "int_const 0"
-                      },
-                      "value": "0"
-                    },
-                    "nodeType": "VariableDeclarationStatement",
-                    "src": "636:10:0"
-                  },
-                  "loopExpression": {
-                    "expression": {
-                      "argumentTypes": null,
-                      "id": 73,
-                      "isConstant": false,
-                      "isLValue": false,
-                      "isPure": false,
-                      "lValueRequested": false,
-                      "nodeType": "UnaryOperation",
-                      "operator": "++",
-                      "prefix": false,
-                      "src": "682:3:0",
-                      "subExpression": {
-                        "argumentTypes": null,
-                        "id": 72,
-                        "name": "i",
-                        "nodeType": "Identifier",
-                        "overloadedDeclarations": [],
-                        "referencedDeclaration": 65,
-                        "src": "682:1:0",
-                        "typeDescriptions": {
-                          "typeIdentifier": "t_uint256",
-                          "typeString": "uint256"
-                        }
-                      },
-                      "typeDescriptions": {
-                        "typeIdentifier": "t_uint256",
-                        "typeString": "uint256"
-                      }
-                    },
-                    "id": 74,
-                    "nodeType": "ExpressionStatement",
-                    "src": "682:3:0"
-                  },
-                  "nodeType": "ForStatement",
-                  "src": "632:107:0"
-                },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 86,
-                    "name": "ids",
+                    "id": 68,
+                    "name": "homeInsuranceRequestsIds",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 62,
-                    "src": "752:3:0",
+                    "referencedDeclaration": 19,
+                    "src": "696:24:0",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
-                      "typeString": "uint256[] storage pointer"
+                      "typeIdentifier": "t_array$_t_uint256_$dyn_storage",
+                      "typeString": "uint256[] storage ref"
                     }
                   },
-                  "functionReturnParameters": 58,
-                  "id": 87,
+                  "functionReturnParameters": 67,
+                  "id": 69,
                   "nodeType": "Return",
-                  "src": "745:10:0"
+                  "src": "689:31:0"
                 }
               ]
             },
             "documentation": null,
-            "id": 89,
+            "id": 71,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": true,
@@ -2119,23 +1693,23 @@
             "name": "listInsuranceRequests",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 54,
+              "id": 63,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "566:2:0"
+              "src": "647:2:0"
             },
             "payable": false,
             "returnParameters": {
-              "id": 58,
+              "id": 67,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 57,
+                  "id": 66,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 89,
-                  "src": "594:6:0",
+                  "scope": 71,
+                  "src": "675:6:0",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2144,19 +1718,19 @@
                   },
                   "typeName": {
                     "baseType": {
-                      "id": 55,
+                      "id": 64,
                       "name": "uint",
                       "nodeType": "ElementaryTypeName",
-                      "src": "594:4:0",
+                      "src": "675:4:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
                       }
                     },
-                    "id": 56,
+                    "id": 65,
                     "length": null,
                     "nodeType": "ArrayTypeName",
-                    "src": "594:6:0",
+                    "src": "675:6:0",
                     "typeDescriptions": {
                       "typeIdentifier": "t_array$_t_uint256_$dyn_storage_ptr",
                       "typeString": "uint256[]"
@@ -2166,20 +1740,20 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "593:8:0"
+              "src": "674:8:0"
             },
-            "scope": 90,
-            "src": "536:224:0",
+            "scope": 72,
+            "src": "617:108:0",
             "stateMutability": "view",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 91,
-        "src": "26:736:0"
+        "scope": 73,
+        "src": "26:701:0"
       }
     ],
-    "src": "0:763:0"
+    "src": "0:728:0"
   },
   "compiler": {
     "name": "solc",
@@ -2190,9 +1764,9 @@
       "events": {},
       "links": {},
       "address": "0xdf9705021c415ad9b3185ee8f5a6b6d817ba871a",
-      "transactionHash": "0xa62f19495935cd8a319533152f4f5bf5263a74180bfd8980128f86e8755a455c"
+      "transactionHash": "0x2813c32d7cfd693ca28520cedfa1406672bc93047edb28f3b7a1b4de5a7e7d8e"
     }
   },
   "schemaVersion": "2.0.0",
-  "updatedAt": "2018-06-30T19:35:21.264Z"
+  "updatedAt": "2018-07-03T02:29:36.010Z"
 }

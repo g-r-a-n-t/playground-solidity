@@ -10,11 +10,13 @@ contract HomeInsurance {
   uint currentId;
   Home[] homesInsured;
   Home[] homeInsuranceRequests;
+  uint[] homeInsuranceRequestsIds;
 
   
   function requestInsurance(uint value, address owner) public {
     Home memory newHome = Home(currentId, value, owner);
     homeInsuranceRequests.push(newHome);
+    homeInsuranceRequestsIds.push(currentId);
     currentId++;
   }
 
@@ -31,10 +33,6 @@ contract HomeInsurance {
   }
 
   function listInsuranceRequests() public constant returns (uint[]) {
-    uint[] storage ids;
-    for(uint i = 0; i < homeInsuranceRequests.length; i++) {
-      ids.push(homeInsuranceRequests[i].id);
-    } 
-    return ids;
+    return homeInsuranceRequestsIds;
   }
 }
